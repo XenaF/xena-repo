@@ -25,3 +25,6 @@ Baby's on fire
 
 //
 Adding the lyrics via Git GUI
+
+//
+First commit via bash

@@ -1,0 +1,7 @@
+# files with different extension
+*.db
+*.log
+
+# hide folders
+target/
+bin/
