@@ -22,3 +22,6 @@ Baby's on fire
 She got me going fuckin crazy since
 O jirre god se Jesus
 Baby's on fire
+
+//
+Adding the lyrics via Git GUI
