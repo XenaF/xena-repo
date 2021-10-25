@@ -1,7 +1,13 @@
 # files with different extension
 *.db
 *.log
+*.conf
+
 
 # hide folders
 target/
 bin/
+
+# files that out of the project's root 
+*
+!xena-repo/
